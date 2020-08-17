@@ -1,5 +1,7 @@
+#Maxim_Vod
+
 # Gradle files
-.gradle/
+gradle/
 
 # User-specific configurations
 *.iml
